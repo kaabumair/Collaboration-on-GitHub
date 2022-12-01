@@ -1,0 +1,7 @@
+#NODE IGNORE
+
+node_modules
+package-lock.json
+package.json
+.vscode
+    launch.json
